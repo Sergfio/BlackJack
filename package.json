@@ -1,0 +1,26 @@
+{
+  "name": "blackjackstepbystep",
+  "version": "1.0.0",
+  "description": "javascript game",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Sergfio/BlackJack"
+  },
+  "keywords": [
+    "card",
+    "game"
+  ],
+  "author": "stefanfocht",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.7.4",
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
